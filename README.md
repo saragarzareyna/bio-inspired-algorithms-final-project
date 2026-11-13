@@ -1,5 +1,5 @@
 Hi!
-Thank you for coming to take a look at the final project we developed for a 5-week course on bio-inspired algorithms. 
+Thank you for coming to take a look at the final project we developed for a 5-week course on bio-inspired algorithms (Fall 2025). 
 
 This is a web-app that uses the Ant Colony Optimization (ACO) algorithm for the Vehicle Routing Problem with time windows and capacity limits for DHL branches in Querétaro. 
 We use an API to realistically get the time each vehicle type would spend delivering the packages. 
