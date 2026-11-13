@@ -11,4 +11,4 @@ My goal is to eventually add a deterministic optimizer like Dijkstra's algorithm
 
 The prompt for the class project was to show an application of a bio-inspired algorithm of our choice. Please forgive the messy structure and missing features, we were mainly focused on how the final web-app worked (and looked). 
 
-**This project was recognized and therefore presented at ITESM's bi-annual engineering fair; where we got to show our work to industry leaders, professors and students. **
+**This project was recognized and therefore presented at ITESM's bi-annual engineering fair; where we got to show our work to industry leaders, professors and students.**
